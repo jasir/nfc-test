@@ -1,0 +1,19 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.hce"
+    },
+    "cordova-plugin-hce": {
+      "AID_FILTER": "A0000007550501",
+      "PACKAGE_NAME": "com.example.hce"
+    }
+  },
+  "dependent_plugins": {}
+}
